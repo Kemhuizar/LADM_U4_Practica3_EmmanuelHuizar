@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "737881811805",
+    "firebase_url": "https://huizapp.firebaseio.com",
+    "project_id": "huizapp",
+    "storage_bucket": "huizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737881811805:android:43f3b823b2b476768bd6b4",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.huizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737881811805-eirv4r1gv26o2df7o3h1tua6925h1obq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoS60Vyn511gEMHh9PlQFAhR2gGu11VYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737881811805-eirv4r1gv26o2df7o3h1tua6925h1obq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737881811805:android:1ecfbeb06ead6ef48bd6b4",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_practica3_emmanuelhuizar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737881811805-eirv4r1gv26o2df7o3h1tua6925h1obq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoS60Vyn511gEMHh9PlQFAhR2gGu11VYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737881811805-eirv4r1gv26o2df7o3h1tua6925h1obq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737881811805:android:10647713253a77158bd6b4",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tarea3_programa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737881811805-eirv4r1gv26o2df7o3h1tua6925h1obq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoS60Vyn511gEMHh9PlQFAhR2gGu11VYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737881811805-eirv4r1gv26o2df7o3h1tua6925h1obq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
